@@ -1,0 +1,6 @@
+Remove Pin=I1-2 From Net=V-TC
+Remove Pin=I1-5 From Net=DN
+Remove Pin=I1-6 From Net=DP
+Remove Pin=I1-7 From Net=DN
+Remove Pin=I1-8 From Net=DP
+Remove Pin=I1-11 From Net=V-TC
