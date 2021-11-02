@@ -25,16 +25,16 @@
 
 ## Build ESP-FW and run
 
-1）install the esp-idf(version 4.3)
+1. install the esp-idf(version 4.3)
 
-2）cd sadwinner/fw/esp32
+2. cd sadwinner/fw/esp32
 
-3) 
+3. 
 ```
 ./build-esp32.sh    **(-p /dev/ttyS3) replace with your port
 ```
 
-4) 
+4. 
 ```
 ./run-esp32.sh      **(-p /dev/ttyS3) replace with your port
 ```
