@@ -29,7 +29,13 @@
 
 2）cd sadwinner/fw/esp32
 
-3) ./build-esp32.sh    **(-p /dev/ttyS3) replace with your port
+3) 
+...
+./build-esp32.sh    **(-p /dev/ttyS3) replace with your port
+...
 
-4) ./run-esp32.sh      **(-p /dev/ttyS3) replace with your port
+4) 
+...
+./run-esp32.sh      **(-p /dev/ttyS3) replace with your port
+...
 
